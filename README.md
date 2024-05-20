@@ -1,3 +1,5 @@
+![CA](screenshot.png)
+
 1D cellular automata<br/>
 v1.0 imminent gloom<br/>
 
