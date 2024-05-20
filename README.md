@@ -1,21 +1,19 @@
-1D cellular automata 
-v1.0 imminent gloom
+1D cellular automata<br/>
+v1.0 imminent gloom<br/>
 
+adapted from elcos<br/>
+by zebra<br/>
 
-adapted from elcos
-by zebra
+bright buttons sets state<br/>
+other buttons sets rule from context<br/>
 
-...
-bright buttons sets state
-other buttons sets rule from context
+every two rows creates a 4-state<br/>
+gate stream from crow<br/>
 
-every two rows creates a 4-state
-gate stream from crow
-
-e1 bpm
-e2 rule
-e3 shifts the window
+e1 bpm<br/>
+e2 rule<br/>
+e3 shifts the window<br/>
  
-k1 not used
-k2 randomize state
-k3 clear state
+k1 not used<br/>
+k2 randomize state<br/>
+k3 clear state<br/>
